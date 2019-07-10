@@ -1,0 +1,58 @@
+{
+  "myReviews": [
+    {
+      "StarRate": 0.0,
+      "CommonRating": 0.0
+    },
+    {
+      "StarRate": 1.0,
+      "CommonRating": 2.0
+    },
+    {
+      "StarRate": 2.0,
+      "CommonRating": 4.0
+    },
+    {
+      "StarRate": 3.0,
+      "CommonRating": 6.0
+    },
+    {
+      "StarRate": 4.0,
+      "CommonRating": 8.0
+    },
+    {
+      "StarRate": 5.0,
+      "CommonRating": 10.0
+    },
+    {
+      "StarRate": 0.0,
+      "CommonRating": 0.0
+    },
+    {
+      "StarRate": 0.0,
+      "CommonRating": 0.0
+    },
+    {
+      "StarRate": 0.0,
+      "CommonRating": 0.0
+    },
+    {
+      "StarRate": 0.0,
+      "CommonRating": 0.0
+    }
+  ],
+  "productPrice": {
+    "InitPrice": 15.34,
+    "WholeScalePrice": 15.8002,
+    "TaxRate": 25.0,
+    "RetailPrice": 20.13375
+  },
+  "ProductManufacturerObject": {
+    "ProductManufacturer": "f"
+  },
+  "MyProductCode": {
+    "propProductCode": "ff"
+  },
+  "ProductName": "rff",
+  "ProductType": "ff"
+}
